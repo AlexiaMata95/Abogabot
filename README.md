@@ -8,4 +8,10 @@ Se requiere una página web que esencialmente cuente con dos roles:
 
 ## b) Diagrama de flujo (Elaboración propia con: https://www.figma.com/)
 
-<img src="/images/DFD-Abogabot.png" alt="dfdabogabot" height="300">
+<p style="text-align:center;"><img src="/images/DFD-Abogabot.png" alt="dfdabogabot" height="550"></p>
+
+## c) Buyer persona (Elaboración propia con https://www.canva.com/)
+<p style="text-align:center;"><img src="/images/Buyer.png" alt="buyer" height="550"></p>
+
+## d) Público objetivo (Elaboración propia con https://www.canva.com/)
+<img src="/images/publico objetivo.png" alt="buyer" height="550">
