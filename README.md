@@ -8,3 +8,4 @@ Se requiere una página web que esencialmente cuente con dos roles:
 
 ## b) Diagrama de flujo (Elaboración propia con: https://www.figma.com/)
 
+<img src="../images/DFD-Abogabot.png" alt="FrontEnd" height="350">
